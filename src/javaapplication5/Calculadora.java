@@ -7,7 +7,7 @@ package javaapplication5;
 
 /**
  *
- * @author Evandro
+ * @author Wendrya
  */
 public class Calculadora {
     private double resultado;
@@ -40,7 +40,7 @@ public class Calculadora {
     }
 
     /**
-     * @return the resultado
+     * @return o resultado
      */
     public double getResultado() {
         return resultado;
