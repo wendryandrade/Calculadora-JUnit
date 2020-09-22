@@ -7,7 +7,7 @@ package javaapplication5;
 
 /**
  *
- * @author Evandro
+ * @author Wendrya
  */
 public class JavaApplication5 {
 
